@@ -1,0 +1,274 @@
+[
+  {
+    "geoid": "110010023001000",
+    "block": "1000",
+    "tract": "002300",
+    "totalPopulation": 245,
+    "hispanicPopulation": 42,
+    "adultPopulation": 189,
+    "housing": {
+      "totalUnits": 98,
+      "occupiedUnits": 91,
+      "vacantUnits": 7
+    },
+    "geography": {
+      "landArea": 45820,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010023001001",
+    "block": "1001",
+    "tract": "002300",
+    "totalPopulation": 312,
+    "hispanicPopulation": 67,
+    "adultPopulation": 241,
+    "housing": {
+      "totalUnits": 124,
+      "occupiedUnits": 118,
+      "vacantUnits": 6
+    },
+    "geography": {
+      "landArea": 52340,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010045002000",
+    "block": "2000",
+    "tract": "004500",
+    "totalPopulation": 0,
+    "hispanicPopulation": 0,
+    "adultPopulation": 0,
+    "housing": {
+      "totalUnits": 0,
+      "occupiedUnits": 0,
+      "vacantUnits": 0
+    },
+    "geography": {
+      "landArea": 128500,
+      "waterArea": 15200
+    }
+  },
+  {
+    "geoid": "110010045002001",
+    "block": "2001",
+    "tract": "004500",
+    "totalPopulation": 487,
+    "hispanicPopulation": 123,
+    "adultPopulation": 368,
+    "housing": {
+      "totalUnits": 186,
+      "occupiedUnits": 174,
+      "vacantUnits": 12
+    },
+    "geography": {
+      "landArea": 67200,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010067001000",
+    "block": "1000",
+    "tract": "006700",
+    "totalPopulation": 598,
+    "hispanicPopulation": 205,
+    "adultPopulation": 456,
+    "housing": {
+      "totalUnits": 245,
+      "occupiedUnits": 231,
+      "vacantUnits": 14
+    },
+    "geography": {
+      "landArea": 34560,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010067001001",
+    "block": "1001",
+    "tract": "006700",
+    "totalPopulation": 421,
+    "hispanicPopulation": 89,
+    "adultPopulation": 324,
+    "housing": {
+      "totalUnits": 167,
+      "occupiedUnits": 158,
+      "vacantUnits": 9
+    },
+    "geography": {
+      "landArea": 41230,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010089003000",
+    "block": "3000",
+    "tract": "008900",
+    "totalPopulation": 145,
+    "hispanicPopulation": 28,
+    "adultPopulation": 112,
+    "housing": {
+      "totalUnits": 62,
+      "occupiedUnits": 54,
+      "vacantUnits": 8
+    },
+    "geography": {
+      "landArea": 78450,
+      "waterArea": 3200
+    }
+  },
+  {
+    "geoid": "110010089003001",
+    "block": "3001",
+    "tract": "008900",
+    "totalPopulation": 756,
+    "hispanicPopulation": 287,
+    "adultPopulation": 589,
+    "housing": {
+      "totalUnits": 298,
+      "occupiedUnits": 279,
+      "vacantUnits": 19
+    },
+    "geography": {
+      "landArea": 56780,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010112001000",
+    "block": "1000",
+    "tract": "011200",
+    "totalPopulation": 834,
+    "hispanicPopulation": 178,
+    "adultPopulation": 645,
+    "housing": {
+      "totalUnits": 342,
+      "occupiedUnits": 318,
+      "vacantUnits": 24
+    },
+    "geography": {
+      "landArea": 48920,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010112001001",
+    "block": "1001",
+    "tract": "011200",
+    "totalPopulation": 0,
+    "hispanicPopulation": 0,
+    "adultPopulation": 0,
+    "housing": {
+      "totalUnits": 5,
+      "occupiedUnits": 0,
+      "vacantUnits": 5
+    },
+    "geography": {
+      "landArea": 95400,
+      "waterArea": 8900
+    }
+  },
+  {
+    "geoid": "110010134002000",
+    "block": "2000",
+    "tract": "013400",
+    "totalPopulation": 673,
+    "hispanicPopulation": 194,
+    "adultPopulation": 521,
+    "housing": {
+      "totalUnits": 267,
+      "occupiedUnits": 248,
+      "vacantUnits": 19
+    },
+    "geography": {
+      "landArea": 39870,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010134002001",
+    "block": "2001",
+    "tract": "013400",
+    "totalPopulation": 892,
+    "hispanicPopulation": 312,
+    "adultPopulation": 689,
+    "housing": {
+      "totalUnits": 378,
+      "occupiedUnits": 356,
+      "vacantUnits": 22
+    },
+    "geography": {
+      "landArea": 62450,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010156001000",
+    "block": "1000",
+    "tract": "015600",
+    "totalPopulation": 1234,
+    "hispanicPopulation": 456,
+    "adultPopulation": 956,
+    "housing": {
+      "totalUnits": 512,
+      "occupiedUnits": 478,
+      "vacantUnits": 34
+    },
+    "geography": {
+      "landArea": 71230,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010156001001",
+    "block": "1001",
+    "tract": "015600",
+    "totalPopulation": 567,
+    "hispanicPopulation": 143,
+    "adultPopulation": 432,
+    "housing": {
+      "totalUnits": 234,
+      "occupiedUnits": 216,
+      "vacantUnits": 18
+    },
+    "geography": {
+      "landArea": 54680,
+      "waterArea": 0
+    }
+  },
+  {
+    "geoid": "110010178003000",
+    "block": "3000",
+    "tract": "017800",
+    "totalPopulation": 389,
+    "hispanicPopulation": 98,
+    "adultPopulation": 298,
+    "housing": {
+      "totalUnits": 156,
+      "occupiedUnits": 142,
+      "vacantUnits": 14
+    },
+    "geography": {
+      "landArea": 44590,
+      "waterArea": 2100
+    }
+  },
+  {
+    "geoid": "110010190001000",
+    "block": "1000",
+    "tract": "019000",
+    "totalPopulation": 0,
+    "hispanicPopulation": 0,
+    "adultPopulation": 0,
+    "housing": {
+      "totalUnits": 12,
+      "occupiedUnits": 0,
+      "vacantUnits": 12
+    },
+    "geography": {
+      "landArea": 112800,
+      "waterArea": 24500
+    }
+  }
+]
